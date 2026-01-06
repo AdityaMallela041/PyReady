@@ -1,0 +1,71 @@
+﻿# PyReady .gitignore
+
+# Environment Variables (IMPORTANT - Contains API Keys)
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv
+.virtualenv
+
+# Poetry
+dist/
+*.egg-info/
+.eggs/
+build/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# PyReady Generated Files
+report.json
+report-*.json
+*-report.json
+test-report.json
+citizenai-report.json
+report.md
+report-*.md
+diff
+diff.json
+diff.md
+
+# Old naming artifacts
+.onboardai-policy.yml
+onboardai-*.json
+
+# Logs
+*.log
+logs/
+
+# OS Files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*~
