@@ -806,7 +806,6 @@ This project is licensed under the MIT License.
 
 **Aditya Mallela**  
 Computer Science Student (AI & ML)  
-Vasavi College of Engineering (VBIT)
 
 📧 Contact: [adityamallela041@gmail.com]  
 🌐 GitHub: [@AdityaMallela041](https://github.com/AdityaMallela041)
@@ -835,7 +834,6 @@ For issues, questions, or suggestions:
 
 <div align="center">
 
-**Made with ❤️ for deterministic governance**
 
 ⭐ **Star this repo if you value reproducible environment validation!**
 
